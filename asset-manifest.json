@@ -1,0 +1,14 @@
+{
+  "main.css": "/deploytest/static/css/main.7423cba0.chunk.css",
+  "main.js": "/deploytest/static/js/main.c289f27c.chunk.js",
+  "main.js.map": "/deploytest/static/js/main.c289f27c.chunk.js.map",
+  "runtime~main.js": "/deploytest/static/js/runtime~main.409920f8.js",
+  "runtime~main.js.map": "/deploytest/static/js/runtime~main.409920f8.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/deploytest/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/deploytest/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/deploytest/index.html",
+  "precache-manifest.016b5d41540085b01189bf5d7e94569d.js": "/deploytest/precache-manifest.016b5d41540085b01189bf5d7e94569d.js",
+  "service-worker.js": "/deploytest/service-worker.js",
+  "static/css/main.7423cba0.chunk.css.map": "/deploytest/static/css/main.7423cba0.chunk.css.map",
+  "static/media/logo.svg": "/deploytest/static/media/logo.5d5d9eef.svg"
+}
